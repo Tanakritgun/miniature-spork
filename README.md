@@ -1,4 +1,1 @@
 # miniature-spork
-
-ITKMITL
-...
